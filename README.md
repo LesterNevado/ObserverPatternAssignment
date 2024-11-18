@@ -30,3 +30,5 @@ In your solution you must provide the following in your Github link account:
 - Problem statement (description of the problem. Just copy what is stated here).
 - UML Class Diagram
 - Uploaded java codes for the solution.
+
+![alt text](<UML Observer Pattern.png>)
